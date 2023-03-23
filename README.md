@@ -4,6 +4,9 @@ Tools for generating physical keys.
 ![Key in Inkscape](doc/inkscape.png "SC4")
 ![Key in OpenSCAD](doc/key.png "152698")
 
+## Installation 
+
+
 ## How to use it
 ```
 usage: keygen.py [-h] [-b BITTING] [-u OUTLINE] [-w WARDING] [-o OUTPUT]
